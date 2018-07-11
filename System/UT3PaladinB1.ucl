@@ -1,0 +1,2 @@
+Mutator=(ClassName=UT3PaladinB1.Mut_UT3Paladin,GroupName=Paladin,IconMaterialName=MutatorArt.nosym,FriendlyName=UT3PaladinB1.Mut_UT3Paladin.FriendlyName,Description=UT3PaladinB1.Mut_UT3Paladin.Description,FriendlyName=UT3PaladinB1.Mut_UT3Paladin.FriendlyName,FallbackName="UT3 Paladin",FallbackDesc="This mutator replaces the Paladin with the one from UT3.")
+Vehicle=(ClassName=UT3PaladinB1.UT3Paladin,FriendlyName=UT3PaladinB1.UT3Paladin.VehicleNameString,FallbackName="UT3 Paladin",FallbackDesc="UT3 Paladin")
